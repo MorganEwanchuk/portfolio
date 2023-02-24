@@ -2244,7 +2244,9 @@ input, select, textarea {
 		margin-left: 375px;
 	}
 
-		
+		.titleFont{
+			color: white;
+		}
 		#main > section {
 			margin: 0;
 			overflow: hidden;
