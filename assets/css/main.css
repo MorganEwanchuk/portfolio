@@ -31,9 +31,6 @@ body {
 ol, ul {
 	list-style: none;
 }
-.item h3{
-	overflow:hidden;
-}
 
 blockquote, q {
 	quotes: none;
