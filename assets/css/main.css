@@ -2245,7 +2245,7 @@ input, select, textarea {
 	}
 
 		.titleFont,#title{
-			color: white;
+			color: #f5f5f5;
 			font-weight: 700;
 		}
 		#main > section {
